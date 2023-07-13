@@ -22,7 +22,7 @@ Eventually, I want to put this on pypi with an entry point so you just pip insta
 
 ## Commands
 
-### init
+### `init`
 
 Initializes envm. 
 
